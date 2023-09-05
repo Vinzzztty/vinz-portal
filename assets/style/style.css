@@ -54,7 +54,7 @@ a {
 
 /* Style for the footer */
 .footer {
-    padding: 20px 0; /* Add some padding */
+    padding: 120px 0; /* Add some padding */
 }
 
 /* Style for the social media icons */
@@ -80,5 +80,8 @@ a {
     }
     .content {
         margin-left: 10px;
+    }
+    .footer {
+        padding: 60px 0; /* Add some padding */
     }
 }
